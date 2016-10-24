@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "~1.8.x",
+    "cookie-parser": "~1.3.x",
+    "debug": "~2.0.x",
+    "express": "~4.10.x",
+    "faker": "^2.0.x",
+    "method-override": "^2.3.x",
+    "mongoose": "^4.4.x",
+    "nconf": "^0.6.x",
+    "winston": "^0.8.x"
+  },
+  "name": "roads",
+  "description": "REST API microservise for humans",
+  "version": "1.0.0",
+  "main": "users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helmelix",
+  "license": "ISC"
+}

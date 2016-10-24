@@ -1,0 +1,27 @@
+{
+    "port": 3002,
+    "security": {
+        "tokenLife" : 3600
+    },
+    "default": {
+		"servise":{
+			"ID":"routes_instanse_1",
+			"name":"routes",
+			"ip":"",
+			"port": 
+		},
+		"auth" :{
+			"ip":"",
+			"port": 
+		},
+		"mongoose": {
+			"ip": "",
+			"uri": "mongodb://"
+		},
+        "client": {
+            "name": "",
+            "clientId": "",
+            "clientSecret": ""
+        }
+    }
+}
